@@ -1,2 +1,5 @@
 node_modules
 app/Dockerfile
+
+# 自动生成的文件
+yarn.lock
